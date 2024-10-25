@@ -1,0 +1,7 @@
+aiogram
+APScheduler
+python-decouple
+redis
+asyncpg-lite
+apscheduler
+markovify
